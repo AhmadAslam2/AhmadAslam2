@@ -5,7 +5,7 @@
 </p>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmadaslam/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.linkedin.com/in/ahmadaslam/"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://www.upwork.com/freelancers/~0196ba1d1cf79c844b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
         <a href="https://stackoverflow.com/users/13834222/ahmad"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
     </div>
     
@@ -41,4 +41,9 @@
   
 - <h4> designing tools </h4>
  
-  <img src = "https://img.shields.io/badge/Adobe"/>
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+<div align=center>
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
